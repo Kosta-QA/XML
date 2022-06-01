@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<Bug_Report>
+    <bug_id>1</bug_id>
+    <description>LogIn button is not responsive at the logIn page</description>
+    <Preconditions>1.go to https://guns.ru/login, 2.first name - jo,  3.last name - peshie </Preconditions>
+    <STR_1>1.Fill out the 'first name' plaseholder with valid data</STR_1>
+    <STR_2>2.Fill out the 'last name name' plaseholder with valid data</STR_2>
+    <STR_3>3.Click login button</STR_3>
+    <Expected_result>user navigates to the main page</Expected_result>
+    <Actual_result>user stays on the login page</Actual_result>
+    <Enviroment>os - Windows11, browses - Chrome Version 102.0.5005.61 (Official Build) (64-bit)</Enviroment>
+</Bug_Report>
