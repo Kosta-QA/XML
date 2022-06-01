@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <Person_id>1</Person_id>
+    <name>Konstantin</name>
+    <last_name>Subbotnikov</last_name>
+    <age>37</age>
+    <work_experience>uTest, GeekBrains project</work_experience>
+    <income>45.000$</income>
+</data>
+
